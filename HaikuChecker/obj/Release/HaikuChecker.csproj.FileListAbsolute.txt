@@ -1,0 +1,9 @@
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\bin\Release\HaikuChecker.exe.config
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\bin\Release\HaikuChecker.exe
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\bin\Release\HaikuChecker.pdb
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\obj\Release\HaikuChecker.Form1.resources
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\obj\Release\HaikuChecker.Properties.Resources.resources
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\obj\Release\HaikuChecker.csproj.GenerateResource.cache
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\obj\Release\HaikuChecker.csproj.CoreCompileInputs.cache
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\obj\Release\HaikuChecker.exe
+C:\Users\18862\source\repos\HaikuChecker\HaikuChecker\obj\Release\HaikuChecker.pdb
