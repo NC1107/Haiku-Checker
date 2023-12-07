@@ -1,15 +1,27 @@
+
 # Haiku-Checker
-## Easilly create your own Haikus while making sure they are 5/7/5.
+Create and validate your haikus with ease, ensuring the classic 5/7/5 syllable structure.
 
+![Application Screenshot](sample.PNG)
 
-![appllication](sample.PNG)
+This tool not only aids in crafting haikus but also verifies their adherence to the traditional structure. Successfully crafted haikus can be saved directly to your computer in a newly created 'haikus' directory.
 
-if you properly create a haiku then you can save it to your computer.
-a directory called 'haikus' will be generated and your haiku will be placed inside.  
+## Key Features
+- Haiku creation and validation.
+- Automated syllable counting for each line.
+- Save function for storing your haikus in a dedicated folder.
 
+## How to Use
+1. Enter your haiku line by line.
+2. The application will check if each line follows the 5/7/5 syllable structure.
+3. Once a valid haiku is created, you have the option to save it.
 
-## Contact Me:  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NC1107)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:188623nc@gmail.com)
-[![Discord Shield](https://discordapp.com/api/guilds/571556611517317120/widget.png?style=shield)](https://discord.gg/96YVmfDfkS)
+## Saving Your Haikus
+- Haikus are saved in a 'haikus' directory created by the application.
+- Each haiku is stored as a separate file for easy access and sharing.
+
+## Connect with Me
+- [GitHub](https://github.com/NC1107)
+- [LinkedIn](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
+- [Email](mailto:nickpconn@gmail.com)
+- [Discord](https://discord.gg/96YVmfDfkS)
